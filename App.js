@@ -1,10 +1,10 @@
 import { StyleSheet } from 'react-native';
-import Web_Browser from './src/Web_Browser';
+import Pager_View from './src/Pager_View';
 
 
 export default function App() {
   return (
-    <Web_Browser/>
+    <Pager_View/>
   );
 }
 
